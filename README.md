@@ -25,42 +25,42 @@
 
 [![INSERT YOUR GRAPHIC HERE](/images/3.png)]()
 
-> Build a base character in blender. and gave it a idle & running animation.
-> Imported into godot.
-> Blend animation and idle by blend2 and adjusted the parameters according to speed.
-> Made few base elements in blender and imported it into Godot.
-> Tweaked few surface physics to make theanimation smooth.
+* Build a base character in blender. and gave it a idle & running animation.
+* Imported into godot.
+* Blend animation and idle by blend2 and adjusted the parameters according to speed.
+* Made few base elements in blender and imported it into Godot.
+* Tweaked few surface physics to make theanimation smooth.
 
 [![INSERT YOUR GRAPHIC HERE](/images/4.png)]()
 
-> New terrain map added.
+* New terrain map added.
 
 [![INSERT YOUR GRAPHIC HERE](/images/5.png)]()
 
-> Same guy but a pic from valley
+* Same guy but a pic from valley
 
 [![INSERT YOUR GRAPHIC HERE](/images/6.png)]()
 
-> Added multiplayer option
-> Each just runs in random directions
+* Added multiplayer option
+* Each just runs in random directions
 
 [![INSERT YOUR GRAPHIC HERE](/images/7.png)]()
- > Just added spawn places for character to spawn from 
+ * Just added spawn places for character to spawn from 
 
 [![INSERT YOUR GRAPHIC HERE](/images/8.png)]()
- > More random NPC running around 
+ * More random NPC running around 
 ---
 
 ## Things to do(Future)
-> Add a proper storline
-> Design more characters
-> More Animations
-> Made a UDP/TCP Server client interface for multiplayer in GOLANG
-> Add detailing to maps 
-> Test out Multiplayer in real settings 
-> Add detailing to characters and tweak few physics characterists 
-> Add more GIFs here 
-> Add more contributers
+* Add a proper storline
+* Design more characters
+* More Animations
+* Made a UDP/TCP Server client interface for multiplayer in GOLANG
+* Add detailing to maps 
+* Test out Multiplayer in real settings 
+* Add detailing to characters and tweak few physics characterists 
+* Add more GIFs here 
+* Add more contributers
 ## External Resources
 ## Contributing
 
@@ -96,7 +96,7 @@ Just me for now
 ## FAQ
 
 - **How do I do *specifically* so and so?**
-    - No problem! Just add it to issues
+    - No problem! Just add it
 
 ---
 
